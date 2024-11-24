@@ -23,5 +23,7 @@ toc:
 Not a fun class. The class was very fast paced. We went over mechanics in just 3-4 weeks (almost all of AP Physics C), and then went onto special relativity and gravity. Professor Balantekin is a very smart and respectable man, but his teaching style is not the best for introductory classes as his homework is extremely difficult and during his lectures, he tends to go off topic. Midway through the semester, Professor Pan taught the class and the lectures were much better and the homework was not as difficult. After taking this class I have come to the realization that I do not like physics.
 
  **Computer Science 200**  - Programming I  
+An introduction to programming using Java. Relatively simple and straight forward course. This courses uses zybooks for the weekly reading, activities, and labs. There are also weekly assignments that are on canvas. Since I had prior coding experience this course was not too bad. However, if you have no coding experience it might be a little difficult. 
+
  **Life Science Communications 100** - Science and Storytelling
 
